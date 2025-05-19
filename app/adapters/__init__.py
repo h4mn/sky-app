@@ -1,0 +1,1 @@
+# Camada de adaptadores da arquitetura hexagonal para SkyBridge

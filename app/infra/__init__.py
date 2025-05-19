@@ -1,0 +1,1 @@
+# Camada de infraestrutura da arquitetura hexagonal para SkyBridge

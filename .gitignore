@@ -41,3 +41,10 @@ coverage/
 # Arquivos temporários
 *.tmp
 *.temp
+
+# Arquivos de ambiente Python
+**/*.env
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/

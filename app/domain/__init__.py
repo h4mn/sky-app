@@ -1,0 +1,1 @@
+# Camada de domínio da arquitetura hexagonal para SkyBridge
